@@ -1,4 +1,4 @@
-# Glassmorphism_SignUp-
+# Glassmorphism_SignUp_Page
 Using Html and CSS build the Glassmorphism signup page
 
 [PROJECT LINK](http://127.0.0.1:5500/index.html)
